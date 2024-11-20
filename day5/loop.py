@@ -8,3 +8,11 @@ for fruit in fruits:
  #loops allows tto execute the code for multiple times
  # for loop is used to iterate over a sequence (such as a list, tuple, dictionary,
     print(fruit + " shake")
+
+
+# for loop
+#for item un list:
+   #do something to each item
+
+# for number in range (a,b):
+   #print(number)
